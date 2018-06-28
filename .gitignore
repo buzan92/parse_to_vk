@@ -1,0 +1,5 @@
+node_modules/
+/dist/
+app/images/
+app/constants.js
+npm-debug.log*
